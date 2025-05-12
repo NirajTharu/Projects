@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files on custom folders
+Icon
+
+# macOS Finder metadata
+._*
+.Spotlight-V100
+.Trashes
+
+# macOS resource forks
+*.AppleDouble
+
+# macOS Disk Image files
+*.dmg
+
+# VSCode editor settings (optional)
+.vscode/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+.cache/
